@@ -1,6 +1,6 @@
-# **Data Warehouse and Data Mining**
-
 ## Chapter Six
+
+# **Data Warehouse and Data Mining**
 
 ### Content
 
