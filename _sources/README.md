@@ -1,8 +1,12 @@
-# data-mining-lessons
+# Data Warehouse and Data Mining Course
 
-This book contains data mining and warehousing lessons from South China University of Technology [4th Year 1st Semeters]
+**Instructor [Prof. GONG Yue-Jiao](https://www.gongyuejiao.com/)**
 
-## Usage
+Welcome to the **Data warehouse and Data mining Course!** With this website I aim to provide all the lessons in this course in an iteractive notebook along with python implementation of some of the algorithms covered in this course. This way students will have the opportunity to play around with some of the code while learning take place.
+
+```{figure}images/image1.png
+:height: 600px
+```
 
 ### Building the book
 
@@ -25,10 +29,6 @@ If you wish to disable this automation, you may remove the GitHub actions workfl
 - `ghp-import -n -p -f data-mining-lessons/_build/html`
 
 This will automatically push your build to the `gh-pages` branch. More information on this hosting process can be found [here](https://jupyterbook.org/publish/gh-pages.html#manually-host-your-book-with-github-pages).
-
-## Contributors
-
-We welcome and recognize all contributions. You can see a list of current contributors in the [contributors tab](https://github.com/mbjallow6/data_mining_lessons/graphs/contributors).
 
 ## Credits
 
