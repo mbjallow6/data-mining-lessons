@@ -4,7 +4,7 @@
 
 Welcome to the **Data warehouse and Data mining Course!** With this website I aim to provide all the lessons in this course in an iteractive notebook along with python implementation of some of the algorithms covered in this course. This way students will have the opportunity to play around with some of the code while learning take place.
 
-```{figure}images/image1.png
+```{figure} images/image1.png
 :height: 600px
 ```
 
