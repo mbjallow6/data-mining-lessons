@@ -2,7 +2,7 @@
 title: Data Warehouse and Data Mining
 author: MB Jallow
 logo: logo.png
-exclude_patterns: ["cache"]
+
 
 repository:
   url: https://github.com/mbjallow6/data-mining-lessons
@@ -11,10 +11,7 @@ latex:
   latex_documents:
     targetname: book.tex
 
-# Execution settings
-execute:
-  execute_notebooks         : "cache"  # Whether to execute notebooks at build time. Must be one of ("auto", "force", "cache", "off")
-  cache                     : "cache"
+
 
 # HTML-specific settings
 html:
