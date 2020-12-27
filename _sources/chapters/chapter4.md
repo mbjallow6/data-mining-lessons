@@ -1,6 +1,4 @@
-## Chapter Four
-
-# **Data Warehouse and Data Mining**
+# Chapter Four
 
 ### Content
 
